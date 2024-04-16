@@ -85,10 +85,10 @@ header .navbar ul li{
 
 header label{
     font-size: 20px;
-    color: rgb(106, 17, 214);
+    color: rgb(223, 217, 229);
     cursor: pointer;
     display: none;
-    background-color: white;
+    background-color: rgb(21, 20, 20);
     padding: 5px;
     border-radius: 3px;
 }
